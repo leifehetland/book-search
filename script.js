@@ -1,5 +1,5 @@
-function helloWorld () {
-  return "Hello World";
+function laterWorld () {
+  return "Catch ya later World";
 }
 
-helloWorld()
+laterWorld()
